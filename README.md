@@ -33,7 +33,7 @@ Customization: This approach allows for customization of the GPT model’s respo
 7. Challenges and Considerations<br>
 Data Privacy and Security: Ensuring that sensitive information within these files is securely handled is crucial.<br><br>
 Bias and Reliability: Care must be taken to avoid introducing biases into the GPT model through these knowledge files.<br><br>
-Scalability: As the number of entities increases, maintaining and updating these files can become challenging. We will rely on members of the community to support our growing ecosystem by taking custody of new models if additional specialization is required<br><br>
+Scalability: As the number of entities increases, maintaining and updating these files can become challenging. We will rely on members of the community to support our growing ecosystem by taking custody of new models if additional specialization is required.<br><br>
 
 8. Applications<br>
 general: integrating enhanced GPT capabilities will significantly improve user experience, especially in applications where specialized knowledge is a key component of user interactions. The design should ensure seamless integration of these knowledge files, maintaining both the aesthetic appeal and the functional efficiency of the application.<br><br>
